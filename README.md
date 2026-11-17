@@ -1,62 +1,77 @@
-# ☁️ CLOUD COMPUTING LAB
+# ☁️ Cloud Computing Lab
 
 <p align="center">
   <img src="https://img.shields.io/badge/Subject-Cloud%20Computing-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Program-B.Tech%20CSE-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Academic%20Work-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Assignments-09-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Completed%20%2F%20Ongoing-orange?style=for-the-badge" />
 </p>
 
 <p align="center">
-  A collection of practical implementations, experiments, and assignments completed as part of the Cloud Computing Laboratory.
+  A collection of practical assignments and implementations completed as part of the Cloud Computing Laboratory.
 </p>
 
 ---
 
-### 👨‍💻 About
-
-This repository serves as a collection of my Cloud Computing Lab work, including practical implementations, source code, configurations, and experiment-related resources.
-
-### 🛠️ Technologies & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" />
-</p>
-
-### 📂 Repository Structure
+## 📂 Repository Structure
 
 ```text
-Cloud-computing/
+CC/
 │
-├── Experiment-01/
-├── Experiment-02/
-├── Experiment-03/
-├── Experiment-04/
-├── Experiment-05/
-│   └── CloudSim-Plus/
-├── Experiment-06/
+├── Assignment 1/
+├── Assignment 2/
+├── Assignment 3/
+├── Assignment 4/
+├── Assignment 5/
+├── Assignment 6/
+│   └── Images/
+├── Assignment 7/
+│   └── Images/
+├── Assignment 8/
+│   └── Images/
+├── Assignment 9/
 │
 └── README.md
 ```
 
-### 🎓 Academic Details
+## 📚 Assignments
 
-| | |
-|---|---|
-| **Course** | B.Tech |
-| **Branch** | Computer Science & Engineering |
-| **Subject** | Cloud Computing Lab |
-| **Author** | Farhan Akthar |
+| Assignment | Folder |
+|:---:|:---|
+| 01 | [Assignment 1](./Assignment%201/) |
+| 02 | [Assignment 2](./Assignment%202/) |
+| 03 | [Assignment 3](./Assignment%203/) |
+| 04 | [Assignment 4](./Assignment%204/) |
+| 05 | [Assignment 5](./Assignment%205/) |
+| 06 | [Assignment 6](./Assignment%206/) |
+| 07 | [Assignment 7](./Assignment%207/) |
+| 08 | [Assignment 8](./Assignment%208/) |
+| 09 | [Assignment 9](./Assignment%209/) |
+
+## 🛠️ About This Repository
+
+This repository contains nine Cloud Computing Lab assignments, organized separately for easy access and reference.
+
+Each assignment folder contains its respective practical work and related files. Some assignments also include screenshots in dedicated `Images` folders.
+
+## 🎯 Purpose
+
+- Maintain all laboratory assignments in one place.
+- Organize practical implementations systematically.
+- Keep related screenshots and resources accessible.
+- Maintain a record of laboratory work throughout the course.
+
+## 👨‍💻 Author
+
+**Farhan Akthar**
+
+B.Tech – Computer Science & Engineering
 
 ---
 
 <p align="center">
-  <b>Made with 💻 by Farhan Akthar</b>
-  <br/>
-  <a href="https://github.com/Farhan-07-00">GitHub Profile</a>
+  ⭐ If you find this repository useful, consider giving it a star!
+</p>
+
+<p align="center">
+  <i>Learning • Building • Experimenting</i>
 </p>
